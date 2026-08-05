@@ -13,7 +13,7 @@ website:
         menu:
           - href: project.ipynb
             text: "Mathematical modelling of brain tumor growth on 2D -course work for computational physics course"
-      - href: Emma_Kuutti_Biomedical_Engineer_CV.pdf
+      - href: Emma_Kuutti_Biomedical_Engineering_CV.pdf
         text: CV  
       - href: bachelor_Kuutti_Emma_2025.pdf 
         text: Bachelor's Thesis
