@@ -15,7 +15,10 @@ About Me
 :::: {.columns}
 
 ::: {.column width="60%"}
-Hi! I'm Emma Kuutti, feel free to be in touch!
+Hi! I'm Emma Kuutti,a biomedical engineering master student from Aalto University, Finland.
+
+
+Please, feel free to be in touch!
 
 * **LinkedIn:** [Emma Kuutti](https://www.linkedin.com/in/emma-kuutti)
 * **GitHub:** [emmakuutti](https://github.com/emmakuutti)
