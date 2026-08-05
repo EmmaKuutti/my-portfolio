@@ -3,20 +3,16 @@ title: "Portfolio - Emma Kuutti | Biomedical Engineer"
 ---
 This page consists of works that I have done in different contents, my Bachelor's thesis and resume are  here as well. At about page there is little more contexs for each work.
 
-Please have a look and feel free to email me at emma.kuutti@gmail.com in case of any questions!
+Please have a look and feel free to email me in case of any questions!
 
-::: {.callout-note}
+::: {.callout-success}
 ## About me
-title: About me
-image: cv kuva.png # Put your photo in the images folder
-links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/emma-kuutti
-    - icon: github
-      text: GitHub
-      href: https://github.com/emmakuutti
-    - icon: envelope
-      text: Contact
-      href: mailto:emma.kuutti@gmail.com
+
+![Emma Kuutti](cv kuva.png){width=150px}
+
+Hi! I'm Emma Kuutti. Here is where you can find me. Please feel free to get in touch!
+
+* [LinkedIn](https://www.linkedin.com/in/emma-kuutti)
+* [GitHub](https://github.com/emmakuutti)
+* [Email Me](mailto:emma.kuutti@gmail.com)
 :::
