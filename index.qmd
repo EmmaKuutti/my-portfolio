@@ -1,7 +1,4 @@
 ---
-title: "Emma_Kuutti_Biomedical_Engineer"
+title: "Emma Kuutti | Biomedical_Engineer"
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This page consists of works that I have done in diferent contents. Please have a look and if you want to ask something, feel free to email me at emma.kuutti@gmail.com

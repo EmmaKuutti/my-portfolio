@@ -1,7 +1,8 @@
 ---
 title: "Projects"
+listing:
+  contents: projects    # Points to your projects/ folder
+  type: grid            # Displays as interactive visual cards
+  categories: true      # Shows clickable filter tags (CAD, Signal Processing, etc.)
+  sort: "date desc"
 ---
-
-## Featured Work
-
-Welcome to my portfolio! Here you will find my biomedical engineering projects, research papers, and technical code.

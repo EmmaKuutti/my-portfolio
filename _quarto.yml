@@ -10,6 +10,9 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
+        menu:
+          - href: project.ipynb
+            text: "Mathematical modelling of brain tumor growth on 2D -course work for computational physics course"
       - href: resume.pdf
         text: CV  
       - href: about.qmd
@@ -25,7 +28,7 @@ format:
     include-in-header:
       - text: |
           <meta name="robots" content="noindex, nofollow">
-          
+
 
 
 
