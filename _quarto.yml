@@ -8,17 +8,19 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: About
       - href: projects.qmd
         text: Projects
         menu:
           - href: project.ipynb
             text: "Mathematical modelling of brain tumor growth on 2D -course work for computational physics course"
+      - href: bachelor_Kuutti_Emma_2025.pdf 
+        text: Bachelor's Thesis      
       - href: Emma_Kuutti_Biomedical_Engineering_CV.pdf
         text: CV  
-      - href: bachelor_Kuutti_Emma_2025.pdf 
-        text: Bachelor's Thesis
-      - href: about.qmd
-        text: About
+      
+      
 
 
 format:
