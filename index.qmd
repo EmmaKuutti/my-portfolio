@@ -10,7 +10,7 @@ Please have a look and feel free to email me in case of any questions!
 
 :::: {.columns}
 
-::: {.column width="70%"}
+::: {.column width="60%"}
 Hi! I'm Emma Kuutti, feel free to be in touch!
 
 * **LinkedIn:** [Emma Kuutti](https://www.linkedin.com/in/emma-kuutti)
@@ -18,8 +18,8 @@ Hi! I'm Emma Kuutti, feel free to be in touch!
 * **Email:** [emma.kuutti@gmail.com](mailto:emma.kuutti@gmail.com)
 :::
 
-::: {.column width="30%"}
-![Emma Kuutti](cv kuva.png)
+::: {.column width="40%"}
+![](cv kuva.png)
 :::
 
 ::::
