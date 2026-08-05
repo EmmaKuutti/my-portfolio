@@ -1,0 +1,7 @@
+---
+title: "Projects"
+---
+
+## Featured Work
+
+Welcome to my portfolio! Here you will find my biomedical engineering projects, research papers, and technical code.
