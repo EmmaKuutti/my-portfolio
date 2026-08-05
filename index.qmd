@@ -5,7 +5,7 @@ This page consists of works that I have done in different contents, my Bachelor'
 
 Please have a look and feel free to email me in case of any questions!
 
-::: {.callout-note}
+::: {.callout-primary}
 ## About Me
 
 :::: {.columns}
