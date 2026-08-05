@@ -5,8 +5,12 @@ This page consists of works that I have done in different contents, my Bachelor'
 
 Please have a look and feel free to email me in case of any questions!
 
-::: {.callout-primary}
-## About Me
+::: {.card .border-primary .shadow-sm}
+::: {.card-header .bg-primary .text-white .fw-bold}
+About Me
+:::
+
+::: {.card-body}
 
 :::: {.columns}
 
@@ -19,9 +23,9 @@ Hi! I'm Emma Kuutti, feel free to be in touch!
 :::
 
 ::: {.column width="40%"}
-![](cv kuva.png)
+![](cv kuva.png){.rounded width="100%"}
 :::
 
 ::::
-
+:::
 :::
