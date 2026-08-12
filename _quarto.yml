@@ -15,7 +15,7 @@ website:
         menu:
           - href: project.ipynb
             text: "Mathematical modelling of brain tumor growth on 2D -course work for computational physics course"
-      - href: bachelor_Kuutti_Emma_2025.pdf 
+      - href: "https://aaltodoc.aalto.fi/server/api/core/bitstreams/f163af85-4a6e-4327-92b7-b7c707ef9a86/content"
         text: Bachelor's Thesis      
       - href: Emma_Kuutti_Biomedical_Engineering_CV.pdf
         text: CV  
