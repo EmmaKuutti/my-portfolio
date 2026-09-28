@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - Special_assignment_Emma_Kuutti_final.pdf
+    - Emma_Kuutti_Biomedical_Engineering_CV.pdf
 
 website:
   title: "Emma Kuutti | Biomedical Engineer"
