@@ -13,6 +13,8 @@ website:
       - href: projects.qmd
         text: Projects
         menu:
+          - href: Special_assignment_Emma_Kuutti_final.pdf
+            text: "Special assignment for my master's degree in biomedical engineering"
           - href: project.ipynb
             text: "Mathematical modelling of brain tumor growth on 2D -course work for computational physics course"
       - href: "https://aaltodoc.aalto.fi/server/api/core/bitstreams/f163af85-4a6e-4327-92b7-b7c707ef9a86/content"

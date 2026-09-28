@@ -7,6 +7,21 @@ Here is a little bit contexs of works, listed by when I did them, latest works f
 
 ::: {.card .border-primary .shadow-sm}
 ::: {.card-header .bg-primary .text-white .fw-bold}
+Special assignment
+:::
+
+::: {.card-body}
+
+In my master's there is a mandatory Special assingment which is by scope and work load compareable to Bachelor's thesis. 
+I did my work in collaboration with Helsinki University Hospital's radiology department, studying the impact of sparse annotation and annotation noise on CNN-based medical image segmentation.
+The work was graded to be very good.
+:::
+:::
+
+<p class="text-primary"><strong>2026</strong></p>
+
+::: {.card .border-primary .shadow-sm}
+::: {.card-header .bg-primary .text-white .fw-bold}
 Mathematical modeling of brain tumor growth on 2D
 :::
 
@@ -28,5 +43,6 @@ Bachelor's thesis
 
 I wrote my Bachelor's thesis during summer and autumn 2025 in research group on Department of Neuroscience and Biomedical Engineering on Aalto University.
 Unfortunately for english speakers, it is in finnish but abstract is also availabe in english.
+The work was graded to be very good.
 :::
 :::
