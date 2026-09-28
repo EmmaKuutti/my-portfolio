@@ -1,0 +1,8 @@
+---
+title: "Special assignment"
+description: "Special assignment for my master's degree in biomedical engineering"
+---
+
+<!-- filepath: c:\Users\emmul\my-portfolio\projects\special-assignment.qmd -->
+
+[Open the assignment PDF](../Special_assignment_Emma_Kuutti_final.pdf)

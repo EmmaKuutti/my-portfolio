@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "special-assignment.html",
+    "href": "special-assignment.html",
+    "title": "Special assignment",
     "section": "",
-    "text": "Special assignment\n\n\nOpen the special assignment (PDF)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMathematical modeling of brain tumor grow on 2D\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Portfolio - Emma Kuutti | Biomedical Engineer",
-    "section": "",
-    "text": "This page consists of works that I have done in different contents, my Bachelor’s thesis and resume are here as well. At about page there is little more contexs for each work.\nPlease have a look and feel free to email me in case of any questions!\n\n\nAbout Me\n\n\n\n\nHi! I’m Emma Kuutti,a biomedical engineering master student from Aalto University, Finland.\nPlease, feel free to be in touch!\n\nLinkedIn: Emma Kuutti\nGitHub: emmakuutti\nEmail: kuutti.emma@gmail.com"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About works",
-    "section": "",
-    "text": "Here is a little bit contexs of works, listed by when I did them, latest works first.\n\n2026\n\n\n\nSpecial assignment\n\n\nIn my master’s there is a mandatory Special assingment which is by scope and work load compareable to Bachelor’s thesis. I did my work in collaboration with Helsinki University Hospital’s radiology department, studying the impact of sparse annotation and annotation noise on CNN-based medical image segmentation. The work was graded to be very good.\n\n\n\n2026\n\n\n\nMathematical modeling of brain tumor growth on 2D\n\n\nThis was a course work for one of my Master level physics course, “Computational physics”. Work uses reaction-diffusion model to simulate how brain tumor would spread depending on it’s position and type.\n\n\n\n2025\n\n\n\nBachelor’s thesis\n\n\nI wrote my Bachelor’s thesis during summer and autumn 2025 in research group on Department of Neuroscience and Biomedical Engineering on Aalto University. Unfortunately for english speakers, it is in finnish but abstract is also availabe in english. The work was graded to be very good."
+    "text": "Open the assignment PDF"
   },
   {
     "objectID": "projects/project.html",
@@ -54,5 +40,26 @@
     "title": "Mathematical modeling of brain tumor grow on 2D",
     "section": "References",
     "text": "References\n[1] J. R. McFaline-Figueroa and E. Q. Lee, “Brain Tumors,” Am. J. Med., vol. 131, no. 8, pp. 874–882, Aug. 2018, doi: 10.1016/J.AMJMED.2017.12.039.\n[2]Harshad Sakariya, Ravi Shankar Prasad, Sushil Kumar, “A study on brain tumor dynamics in two-dimensional irregular domain with variable-order time-fractional derivative”, Computer Methods and Programs in Biomedicine, Volume 264, 2025, 108700, ISSN 0169-2607, https://doi.org/10.1016/j.cmpb.2025.108700.\n[3] M. Fritz and N. I. Kavallaris, “A TIME-FRACTIONAL FISHER-KPP EQUATION FOR TUMOR GROWTH: ANALYSIS AND NUMERICAL SIMULATION.”\n[4]Mandonnet E, Delattre JY, Tanguy ML, Swanson KR, Carpentier AF, Duffau H, Cornu P, Van Effenterre R, Alvord EC Jr, Capelle L. Continuous growth of mean tumor diameter in a subset of grade II gliomas. Ann Neurol. 2003 Apr;53(4):524-8. doi: 10.1002/ana.10528. PMID: 12666121.\n[5]. Stensjøen AL, Solheim O, Kvistad KA, Håberg AK, Salvesen Ø, Berntsen EM. Growth dynamics of untreated glioblastomas in vivo. Neuro Oncol. 2015 Oct;17(10):1402-11. doi: 10.1093/neuonc/nov029. Epub 2015 Mar 10. PMID: 25758748; PMCID: PMC4578579.\n[6]. International Agency for Research on Cancer, “Central Nervous System Tumours,” WHO Classification of Tumours Online, 5th ed., vol. 6. [Online]. Saatavilla: https://tumourclassification.iarc.who.int.\n[7] K. R. Swanson, J. Alvord, and J. D. Murray, “A quantitative model for differential motility of gliomas in grey and white matter,” Cell Prolif., vol. 33, no. 5, pp. 317–329, 2000, doi: 10.1046/j.1365-2184.2000.00177.x.\n[8] ThomasDubail, “Brain tumors 256×256: A refined brain tumor image dataset with grayscale normalization and zoom,” Kaggle, 2023. [Online]. Available: https://www.kaggle.com/datasets/thomasdubail/brain-tumors-256x256. [Accessed: Mar. 3, 2026].\n[9]K. R. Swanson, C. Bridge, J. D. Murray, and E. C. Alvord Jr, “Virtual brain tumours (gliomas) enhance the reality of medical imaging and highlight inadequacies of current therapy,” Br. J. Cancer, vol. 86, no. 1, pp. 14–18, Jan. 2002, doi: 10.1038/sj.bjc.6600021.\n[10]K. Van Heertum and B. Aubert, “Positron emission tomography imaging of cell proliferation,” Methods, vol. 70, no. 1, pp. 24–30, Nov. 2014, doi: 10.1016/j.ymeth.2014.08.010"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About works",
+    "section": "",
+    "text": "Here is a little bit contexs of works, listed by when I did them, latest works first.\n\n2026\n\n\n\nSpecial assignment\n\n\nIn my master’s there is a mandatory Special assingment which is by scope and work load compareable to Bachelor’s thesis. I did my work in collaboration with Helsinki University Hospital’s radiology department, studying the impact of sparse annotation and annotation noise on CNN-based medical image segmentation. The work was graded to be very good.\n\n\n\n2026\n\n\n\nMathematical modeling of brain tumor growth on 2D\n\n\nThis was a course work for one of my Master level physics course, “Computational physics”. Work uses reaction-diffusion model to simulate how brain tumor would spread depending on it’s position and type.\n\n\n\n2025\n\n\n\nBachelor’s thesis\n\n\nI wrote my Bachelor’s thesis during summer and autumn 2025 in research group on Department of Neuroscience and Biomedical Engineering on Aalto University. Unfortunately for english speakers, it is in finnish but abstract is also availabe in english. The work was graded to be very good."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio - Emma Kuutti | Biomedical Engineer",
+    "section": "",
+    "text": "This page consists of works that I have done in different contents, my Bachelor’s thesis and resume are here as well. At about page there is little more contexs for each work.\nPlease have a look and feel free to email me in case of any questions!\n\n\nAbout Me\n\n\n\n\nHi! I’m Emma Kuutti,a biomedical engineering master student from Aalto University, Finland.\nPlease, feel free to be in touch!\n\nLinkedIn: Emma Kuutti\nGitHub: emmakuutti\nEmail: kuutti.emma@gmail.com"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Mathematical modeling of brain tumor grow on 2D\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

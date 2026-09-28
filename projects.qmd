@@ -6,11 +6,3 @@ listing:
   categories: true      # Shows clickable filter tags (CAD, Signal Processing, etc.)
   sort: "date desc"
 ---
-::: {.card .border-primary .shadow-sm}
-::: {.card-header .bg-primary .text-white .fw-bold}
-Special assignment
-:::
-::: {.card-body}
-[Open the special assignment (PDF)](Special_assignment_Emma_Kuutti_final.pdf){.btn .btn-primary}
-:::
-:::
