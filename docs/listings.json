@@ -2,8 +2,7 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/project.html",
-      "/projects/special-assignment.html"
+      "/projects/project.html"
     ]
   }
 ]
